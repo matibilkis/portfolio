@@ -16,6 +16,12 @@
 
 ---
 
+## 🎓 PhD Thesis
+
+- **[PhD Thesis (Physics, Cum Laude)](resources/thesis.pdf)** - Complete doctoral dissertation on quantum machine learning and reinforcement learning for quantum systems
+
+---
+
 ## 🎯 Research Highlights
 
 ### High-Impact Publications & Code
