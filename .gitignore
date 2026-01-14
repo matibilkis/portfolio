@@ -10,11 +10,16 @@ Thumbs.db
 .idea/
 .cursor/
 
-# LaTeX build artifacts (if we add source files later)
+# LaTeX build artifacts (exclude except in academic_EN)
 *.aux
 *.log
 *.out
 *.fdb_latexmk
 *.fls
 *.synctex.gz
+
+# But keep LaTeX artifacts in academic_EN folder
+!academic_EN/*.aux
+!academic_EN/*.log
+!academic_EN/*.out
 
