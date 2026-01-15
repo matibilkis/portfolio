@@ -13,9 +13,6 @@
 
 - **[Technical CV (Applied AI Scientist & Engineer)](cvs/CV_Technical_Matias_Bilkis.pdf)** - Focus on ML engineering, production systems, and technical skills
 - **[Academic CV (Full)](cvs/CV_Academic_Matias_Bilkis.pdf)** - Complete academic profile with publications, teaching, and research
-- **[Academic CV (English, LaTeX Source)](academic_EN/)** - English academic CV with LaTeX source files
-  - [PDF Version](academic_EN/Matias%20Bilkis%20PhD%20-%20cv.pdf)
-  - [LaTeX Source](academic_EN/cv_EN.tex)
 
 ---
 
